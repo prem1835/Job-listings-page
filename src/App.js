@@ -1,10 +1,16 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import Filter from "./Filter";
+import CardList from "./CardList";
+import Data from "../data.json";
 
-class HelloMessage extends React.Component {
-  render() {
-    return <div>Prem Mali</div>;
-  }
-}
+const App = () => {
+  return (
+    <React.Fragment>
+      <header />
+      <Filter />
+      <CardList jsonData={Data} />
+    </React.Fragment>
+  );
+};
 
-ReactDOM.render(<HelloMessage />, document.getElementById("app"));
+export default App;
