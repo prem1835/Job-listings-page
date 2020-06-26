@@ -27,4 +27,4 @@ module.exports=[{id:1,company:"Photosnap",logo:"./images/photosnap.svg",new:!0,f
 },{"./cjs/react-dom.production.min.js":"i17t"}],"uBxZ":[function(require,module,exports) {
 "use strict";var e=u(require("./App"));require("./App.css");var r=u(require("react")),t=u(require("react-dom"));function u(e){return e&&e.__esModule?e:{default:e}}t.default.render(r.default.createElement(e.default,null),document.getElementById("app"));
 },{"./App":"eBcb","./App.css":"tjdK","react":"n8MK","react-dom":"NKHc"}]},{},["uBxZ"], null)
-//# sourceMappingURL=/src.15ae4243.js.map
+//# sourceMappingURL=src.29672cc4.js.map
