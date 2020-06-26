@@ -1,8 +1,6 @@
 node_modules
 .cache/
-dist/
 .env
 .vscode/
 style-guide.md
 design/
-dist/
