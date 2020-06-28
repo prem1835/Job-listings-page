@@ -26,7 +26,6 @@ header {
     0px 7px 20px hsla(179, 29%, 51%, 0.19);
   max-width: 81.333333%;
   margin-top: -34px;
-  display: none;
 }
 @media screen and (max-width: 992px) {
   .filter-box {

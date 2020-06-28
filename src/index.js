@@ -1,5 +1,5 @@
-import App from "./App";
-import "./App.css";
+import App from "./component/App";
+import "./component/App.css";
 import React from "react";
 import ReactDOM from "react-dom";
 
