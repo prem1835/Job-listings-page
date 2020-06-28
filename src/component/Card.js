@@ -25,7 +25,7 @@ const Card = ({ jsonData, addToFilter }) => {
               key={id}
             >
               <div className="job-logo col-12 col-lg-1 pb-3 pb-lg-0 p-0 ">
-                <img src={`.${logo}`} alt="company-logo" />
+                <img src={logo} alt="company-logo" />
               </div>
               <div className="about col-12 col-lg-5 p-0 pl-0 pl-lg-5 pb-3 pb-lg-0">
                 <div className="pb-2">
